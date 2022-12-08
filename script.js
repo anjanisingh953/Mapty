@@ -313,7 +313,7 @@ class App{
         console.log(workout);
 
         //using the public interface
-        workout.click();
+        workout.click(); 
 
 
     }
@@ -325,6 +325,7 @@ class App{
 
 const app = new App();
 
+//test
 
 
 
